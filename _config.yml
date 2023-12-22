@@ -192,3 +192,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+head:
+  - link:
+      rel: "icon"
+      type: "image/x-icon"
+      href: "{{ "/assets/img/favicons/james-bond-kill-chain-1-cover-d-greg-smallwood-virgin-variant.jpg" | relative_url }}"
