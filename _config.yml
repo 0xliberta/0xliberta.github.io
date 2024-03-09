@@ -16,7 +16,7 @@ timezone:
 
 title: 0xLiberta # the main title
 
-tagline: RedTeaming Blog # it will display as the sub-title
+tagline: No Time To Die # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   RedTeaming, Kernal Exploitation, CTF, Bug Hunting, Coding, Reverse, Cybersecuity News, InfoSec Enthusiast.
@@ -29,7 +29,7 @@ github:
   username: 0xliberta # change to your github username
 
 twitter:
-  username: Hameed74_ # change to your twitter username
+  username: 0xliberta0 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: 0xliberta@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/0xliberta0 # change to your twitter homepage
+    - https://github.com/0xliberta # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,7 +73,7 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://pbs.twimg.com/profile_images/1766419372812222464/A48K0Jjf_400x400.jpg
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://pbs.twimg.com/profile_images/1766419372812222464/A48K0Jjf_400x400.jpg
