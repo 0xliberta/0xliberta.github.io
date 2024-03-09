@@ -2,4 +2,58 @@
 layout: tags
 icon: fas fa-tags
 order: 2
+tags:
+  - analysis code
+  - apache
+  - application security
+  - aslr
+  - backup
+  - binary exploitation
+  - buffer overflow
+  - canary
+  - challenges
+  - code review
+  - code vulnerable
+  - crack cookies
+  - crack password
+  - ctf
+  - debugging
+  - encryption
+  - exploit
+  - files
+  - fuse
+  - hackthebox
+  - intense
+  - leaks data
+  - lfi
+  - linux
+  - lxd
+  - mobile
+  - penetration testing
+  - pentest
+  - privilege escalation
+  - python
+  - rce
+  - recon
+  - reverse engineer
+  - root
+  - rop
+  - secure coding
+  - shell
+  - snmp
+  - sqli
+  - ssh tunnel
+  - tabby
+  - tomcat
+  - tunnel
+  - virtual host
+  - windows
+  - ctf
+  - hackthebox
+  - shell
+  - apache
+  - buffer overflow
+  - exploit
+  - lfi
+  - linux
 ---
