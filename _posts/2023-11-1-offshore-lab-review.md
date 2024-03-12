@@ -3,6 +3,7 @@ title: "OFFSHORE Lab Review"
 date: 2023-11-1 00:00:00 +0800
 categories: [HackTheBox]
 tags: [ProLabs]
+author: essam
 ---
 # OFFSHORE Lab Review
 
