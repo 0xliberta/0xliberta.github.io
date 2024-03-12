@@ -3,7 +3,7 @@ title: "Dante Lab Review"
 date: 2023-1-27 00:00:00 +0800
 categories: [HackTheBox]
 tags: [ProLabs]
-author: hameed, essam
+author: hameed essam
 ---
 # Dante Pro Lab Review
 ![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/06818c60-d60a-4e0c-92d2-13f51bfadcad)
