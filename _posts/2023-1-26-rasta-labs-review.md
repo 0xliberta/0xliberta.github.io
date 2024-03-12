@@ -24,7 +24,8 @@ subscription. Additionally, you do NOT need any specific rank to attempt
 
 There are about 15 servers that can be compromised in the lab with only one domain.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76c628ac-81b8-4358-8dd4-a3673c7c95cf/Untitled.png)
+![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/453c5d73-7c90-4ad6-8565-ea8ad7f66f58)
+
 
 **Goal:**
  "The goal of the lab is to reach Domain Admin and collect all the flags."
