@@ -46,7 +46,6 @@ There are about 3 subdomains that can be compromised in exam via 2 servers
 
 **Evasion techniques**. Some payloads just don’t work and it doesn’t matter how hard you tried or how far you have gotten. This is because filters are in place and you just have to know how to work around them in order to run your exploit properly.
 
-https://lh6.googleusercontent.com/6xmsQA9w-e-uimdGCt1SqXSjVlPVVCyn4TXmKVBVHY6tJEOrb3yfdAZvM4hfvdwWnLl2mhfaIpBZs0_p5Q4xFQoOehbXBKk5cY_j-A935akfuxnu_SUBcM1kOCd0IFPf0Dc4ntfntEZTIaGXKQ
 
 **Scripting**. Scanners are ok, but they can only highlight an issue if there is any. Some vulnerabilities require proper exploitation which can not be done with any available tool. This is because exam machines require custom exploitation tools and the ones off the shelf do not work properly. Luckily for us, there are multiple custom exploitation scripts on the internet that we can tweak a bit and make them run.
 
