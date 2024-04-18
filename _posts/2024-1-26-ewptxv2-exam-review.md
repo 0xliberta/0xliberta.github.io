@@ -23,7 +23,7 @@ Elearn Web Application Penetration Testing eXtreme is a challenging marathon tha
 
 There are about 3 subdomains that can be compromised in exam via 2 servers 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42124aaa-5e98-444a-97b1-db1bd0eefaa0/fd101ba0-5ae4-42ef-931e-df834e963053/Untitled.png)
+![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/6813b55c-1487-49c3-8c6c-0971eb165658)
 
 **Goal:** “The goal of the exam is to Get XXE and Get 2 RCE via 2 diffrent technique and 5 sqli and diffrent types of misc vulnerabilities”
 
@@ -54,7 +54,8 @@ https://lh6.googleusercontent.com/6xmsQA9w-e-uimdGCt1SqXSjVlPVVCyn4TXmKVBVHY6tJE
 
 # Exam restrictions :
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42124aaa-5e98-444a-97b1-db1bd0eefaa0/f2b95080-6fe7-4eb5-b0a0-5e4ae2d94ff4/Untitled.png)
+![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/39766aa2-1bdb-4b9b-b13a-719bef729430)
+
 
 One of the fun parts is there are no restrictions to use any exploitation or scanner tools. This is great since it is very similar to the real-world scenario. This does not mean that there are any CVE’s waiting to be exploited. The exam is prepared in such a way that you have to know how to identify, exploit, and post exploited vulnerabilities that may or not be found in a preparation course for the exam.
 
@@ -129,10 +130,9 @@ One of the fun parts is there are no restrictions to use any exploitation or sca
     - [SSRF](https://portswigger.net/web-security/all-labs#server-side-request-forgery-ssrf)
     - [Authorization Bypass](https://portswigger.net/web-security/all-labs#information-disclosure)
     - [World wide XSS](https://portswigger.net/web-security/all-labs#cross-site-scripting)
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42124aaa-5e98-444a-97b1-db1bd0eefaa0/2e10e588-881f-4647-892a-9ccc115b33e5/Untitled.png)
+    ![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/18a34771-2ceb-4e55-8b4c-87a3e6b94a8d)
+
     
 
 - **Feed Back !** In my opinion, the exam is really good and I found it best in class for the Black Box Pentest Approach. I will highly recommend this certification for anyone who wants to challenge their skills in Black Box Pentest, However, at the same time, I faced stability issues with the Exam Environment. I noticed that you will need multiple resets in order to sometimes gain a successful execution of the exploits.
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42124aaa-5e98-444a-97b1-db1bd0eefaa0/1d82d801-e0ca-48ee-9ac0-2ccaa64cc42f/Untitled.png)
+![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/72d1c4ab-0e19-434a-8e6e-803d51ebfdc4)
