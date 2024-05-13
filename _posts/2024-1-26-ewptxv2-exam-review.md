@@ -135,3 +135,5 @@ One of the fun parts is there are no restrictions to use any exploitation or sca
 
 - **Feed Back !** In my opinion, the exam is really good and I found it best in class for the Black Box Pentest Approach. I will highly recommend this certification for anyone who wants to challenge their skills in Black Box Pentest, However, at the same time, I faced stability issues with the Exam Environment. I noticed that you will need multiple resets in order to sometimes gain a successful execution of the exploits.
 ![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/72d1c4ab-0e19-434a-8e6e-803d51ebfdc4)
+
+[for any feedback please contact me on my linkedin](https://www.linkedin.com/in/ahmed-abdulhameed-729737158/)
