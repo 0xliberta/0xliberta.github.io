@@ -8,7 +8,7 @@ author:
   - essam
 ---
 # eWPTXv2 Review
-![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/762e0376-df5f-43af-a9d8-a54eb688ac9a)
+![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/83b0eb9d-9c41-4bb8-b16d-c71ee0468168)
 
 **What is** eWPTXv2 **?**
 
