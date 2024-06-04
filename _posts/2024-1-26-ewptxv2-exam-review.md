@@ -3,7 +3,9 @@ title: "eWPTXv2 exam Review"
 date: 2024-1-26 00:00:00 +0800
 categories: [elearnsecurity]
 tags: [INE]
-author: hameed
+author: 
+  - hameed
+  - essam
 ---
 # eWPTXv2 Review
 ![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/762e0376-df5f-43af-a9d8-a54eb688ac9a)
