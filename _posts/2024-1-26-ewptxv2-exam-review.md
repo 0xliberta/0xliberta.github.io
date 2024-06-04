@@ -6,6 +6,7 @@ tags: [INE]
 author: hameed
 ---
 # eWPTXv2 Review
+![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/762e0376-df5f-43af-a9d8-a54eb688ac9a)
 
 **What is** eWPTXv2 **?**
 
