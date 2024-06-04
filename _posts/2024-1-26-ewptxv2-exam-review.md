@@ -140,3 +140,4 @@ One of the fun parts is there are no restrictions to use any exploitation or sca
 ![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/72d1c4ab-0e19-434a-8e6e-803d51ebfdc4)
 
 [for any feedback please contact me on my linkedin](https://www.linkedin.com/in/ahmed-abdulhameed-729737158/)
+[for any feedback please contact me on my linkedin](https://www.linkedin.com/in/ahmed-3ssam/)
