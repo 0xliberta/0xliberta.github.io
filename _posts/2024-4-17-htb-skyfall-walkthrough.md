@@ -81,7 +81,7 @@ Nothing actually interesting but a demo page for a subdomain.
 
 Before getting to Demo, let’s Enumerate on `skyfall.htb` to discover subdomains using `ffuf`
 
-![`ffuf -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt -u http://FUZZ.skyfall.htb/`](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b46735d-0e51-4a80-be8b-7f53fa8e3df4/cbae38f6-766d-47be-a412-15c0935753ff/Untitled.png)
+![`ffuf -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt -u http://FUZZ.skyfall.htb/`]![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/f075429b-c663-4893-bb3c-238c566b59df)
 
 `ffuf -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt -u http://FUZZ.skyfall.htb/`
 
