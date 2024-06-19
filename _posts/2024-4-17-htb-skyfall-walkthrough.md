@@ -4,7 +4,7 @@ date: 2024-4-17 00:00:00 +0800
 categories: [HackTheBox]
 tags: [INSANE]
 author: 
-  - hameed
+  - mohamed
 ---
 # HTB: Skyfall Walkthrough
 
