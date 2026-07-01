@@ -8,7 +8,6 @@ author:
   - essam
 ---
 # Dante Pro Lab Review
-![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/06818c60-d60a-4e0c-92d2-13f51bfadcad)
 
 
 ## Introduction
