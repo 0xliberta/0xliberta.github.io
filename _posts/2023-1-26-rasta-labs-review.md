@@ -128,5 +128,8 @@ Port forwarding, or port mapping, allows remote servers and devices on the inter
 We can use different ways to do this task like Metasploit , SSH , Chiesl , sshutle , etc.
 Here is the [awoasme cheat sheet](https://www.hackingarticles.in/port-forwarding-tunnelling-cheatsheet/) for different methods of port forwarding
 
-- **Feed Back !** 
-In my opinion, this lab is very helpful for anyone who wants to learn some of the Red Team's techniques. As well as OSINT, phishing, and Active Directory attacks, one thing I noticed in the lab is that it sometimes tends to be CTF Style, so I recommend you search for the Flags everywhere.
+- **Feedback**
+
+In my opinion, this lab is highly valuable for anyone looking to learn Red Team techniques. It covers several important areas, including OSINT, phishing, and Active Directory attacks.
+
+One thing I noticed is that some parts of the lab have a CTF-style approach, so I recommend searching carefully for flags and hidden clues throughout the environment.
