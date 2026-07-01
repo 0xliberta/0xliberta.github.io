@@ -125,8 +125,7 @@ Pivoting is a method of accessing a machine that we have no way of accessing, th
 - [Port Forwarding](https://www.coeosolutions.com/news/what-is-port-forwarding) 
 Port forwarding, or port mapping, allows remote servers and devices on the internet to access the devices that are within your private local-area network (LAN)
 
-We can use different ways to do this task like Metasploit , SSH , Chiesl , sshutle , etc.
-Here is the [awoasme cheat sheet](https://www.hackingarticles.in/port-forwarding-tunnelling-cheatsheet/) for different methods of port forwarding
+We can use different methods for this task, such as Metasploit, SSH, Chisel, and sshuttle. Here is an [awesome cheat sheet](https://www.hackingarticles.in/port-forwarding-tunnelling-cheatsheet/) covering different port-forwarding and tunnelling techniques.
 
 - **Feedback**
 
