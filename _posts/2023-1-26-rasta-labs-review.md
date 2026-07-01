@@ -130,4 +130,3 @@ Here is the [awoasme cheat sheet](https://www.hackingarticles.in/port-forwarding
 
 - **Feed Back !** 
 In my opinion, this lab is very helpful for anyone who wants to learn some of the Red Team's techniques. As well as OSINT, phishing, and Active Directory attacks, one thing I noticed in the lab is that it sometimes tends to be CTF Style, so I recommend you search for the Flags everywhere.
-![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/9748f88e-597e-4e69-b0df-d1d75bb2068d)
