@@ -10,8 +10,6 @@ author:
 
 # Dante Pro Lab Review
 
-![image](https://github.com/0xliberta/0xliberta.github.io/assets/154480148/06818c60-d60a-4e0c-92d2-13f51bfadcad)
-
 ## Introduction
 
 Hey security friends, I’m gonna talk about Dante Pro Lab from Hack The Box. For those who don’t know Dante Pro Lab, it’s a lab that simulates the penetration testing engagement and provides some real-world scenarios. The lab contains 3 networks that include 14 machines, all of which you have to hack.
