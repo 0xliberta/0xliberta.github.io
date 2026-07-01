@@ -1,11 +1,9 @@
 ---
 title: "Dante Lab Review"
-date: 2023-1-27 00:00:00 +0800
+date: 2023-01-27 00:00:00 +0800
 categories: [HackTheBox]
 tags: [ProLabs]
-author: 
-- essam
-
+author: essam
 ---
 
 # Dante Pro Lab Review
